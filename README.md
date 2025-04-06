@@ -33,4 +33,4 @@ Consulta SQL que retorna o nome, CPF e salário de contratados cuja profissão s
 Para os scripts Python, basta ter o Python instalado e rodar normalmente no terminal ou em um ambiente como Jupyter Notebook ou VSCode:
 
 ```bash
-python questao1.py
+python q1.py
