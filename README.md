@@ -21,10 +21,10 @@ Lê 50 números e armazena em uma lista. Verifica se há números repetidos e mo
 ### 4️⃣ Arredondamento de Notas Escolares
 Recebe uma lista de notas e aplica regras de arredondamento para múltiplos de 5. Permite também que o usuário adicione novas notas à lista.
 
-### 5️⃣ SQL - Tratamento de Valores NULL
+### 5️⃣.1️⃣ SQL - Tratamento de Valores NULL
 Análise de consultas SQL usando operadores incorretos (`= NULL`, `<> NULL`) e o correto (`IS NOT NULL`), com base em três tabelas de exemplo.
 
-### 6️⃣ SQL - Consulta com JOINs e Filtros
+### 5️⃣.2️⃣ SQL - Consulta com JOINs e Filtros
 Consulta SQL que retorna o nome, CPF e salário de contratados cuja profissão seja **Advogado** ou **Empresário**, utilizando `JOIN` entre três tabelas.
 
 ---
@@ -33,4 +33,5 @@ Consulta SQL que retorna o nome, CPF e salário de contratados cuja profissão s
 Para os scripts Python, basta ter o Python instalado e rodar normalmente no terminal ou em um ambiente como Jupyter Notebook ou VSCode:
 
 ```bash
-python q1.py
+n = {1,2,3,4,5}
+python qn.py
