@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios resolvidos em Python, abordando conceitos fundamentais de lógica de programação, manipulação de listas, estruturas condicionais e SQL.
 
----
+----
 
 ## 📚 Questões Resolvidas
 
